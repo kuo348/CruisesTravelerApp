@@ -1,0 +1,201 @@
+
+使用中連線
+
+  協定   本機位址               外部位址               狀態
+  TCP    0.0.0.0:21             KEL015050:0            LISTENING
+  TCP    0.0.0.0:80             KEL015050:0            LISTENING
+  TCP    0.0.0.0:135            KEL015050:0            LISTENING
+  TCP    0.0.0.0:445            KEL015050:0            LISTENING
+  TCP    0.0.0.0:1433           KEL015050:0            LISTENING
+  TCP    0.0.0.0:2179           KEL015050:0            LISTENING
+  TCP    0.0.0.0:3000           KEL015050:0            LISTENING
+  TCP    0.0.0.0:5040           KEL015050:0            LISTENING
+  TCP    0.0.0.0:5938           KEL015050:0            LISTENING
+  TCP    0.0.0.0:8150           KEL015050:0            LISTENING
+  TCP    0.0.0.0:8624           KEL015050:0            LISTENING
+  TCP    0.0.0.0:49664          KEL015050:0            LISTENING
+  TCP    0.0.0.0:49665          KEL015050:0            LISTENING
+  TCP    0.0.0.0:49666          KEL015050:0            LISTENING
+  TCP    0.0.0.0:49669          KEL015050:0            LISTENING
+  TCP    0.0.0.0:49670          KEL015050:0            LISTENING
+  TCP    0.0.0.0:49671          KEL015050:0            LISTENING
+  TCP    0.0.0.0:49680          KEL015050:0            LISTENING
+  TCP    0.0.0.0:58815          KEL015050:0            LISTENING
+  TCP    127.0.0.1:3000         KEL015050:51862        TIME_WAIT
+  TCP    127.0.0.1:3000         KEL015050:52116        TIME_WAIT
+  TCP    127.0.0.1:5939         KEL015050:0            LISTENING
+  TCP    127.0.0.1:5939         KEL015050:52168        ESTABLISHED
+  TCP    127.0.0.1:5939         KEL015050:64462        ESTABLISHED
+  TCP    127.0.0.1:49952        KEL015050:49953        ESTABLISHED
+  TCP    127.0.0.1:49953        KEL015050:49952        ESTABLISHED
+  TCP    127.0.0.1:49954        KEL015050:49955        ESTABLISHED
+  TCP    127.0.0.1:49955        KEL015050:49954        ESTABLISHED
+  TCP    127.0.0.1:49962        KEL015050:49963        ESTABLISHED
+  TCP    127.0.0.1:49963        KEL015050:49962        ESTABLISHED
+  TCP    127.0.0.1:50232        KEL015050:0            LISTENING
+  TCP    127.0.0.1:51825        KEL015050:51826        ESTABLISHED
+  TCP    127.0.0.1:51826        KEL015050:51825        ESTABLISHED
+  TCP    127.0.0.1:52168        KEL015050:5939         ESTABLISHED
+  TCP    127.0.0.1:53740        KEL015050:0            LISTENING
+  TCP    127.0.0.1:53741        KEL015050:0            LISTENING
+  TCP    127.0.0.1:53742        KEL015050:0            LISTENING
+  TCP    127.0.0.1:61161        KEL015050:0            LISTENING
+  TCP    127.0.0.1:63278        KEL015050:0            LISTENING
+  TCP    127.0.0.1:63279        KEL015050:63280        ESTABLISHED
+  TCP    127.0.0.1:63280        KEL015050:63279        ESTABLISHED
+  TCP    127.0.0.1:63281        KEL015050:63282        ESTABLISHED
+  TCP    127.0.0.1:63282        KEL015050:63281        ESTABLISHED
+  TCP    127.0.0.1:64462        KEL015050:5939         ESTABLISHED
+  TCP    172.23.96.1:139        KEL015050:0            LISTENING
+  TCP    172.29.128.1:139       KEL015050:0            LISTENING
+  TCP    192.168.15.50:139      KEL015050:0            LISTENING
+  TCP    192.168.15.50:5938     HQO002219:39315        ESTABLISHED
+  TCP    192.168.15.50:49394    a23-39-60-77:https     CLOSE_WAIT
+  TCP    192.168.15.50:50811    152.195.38.76:http     CLOSE_WAIT
+  TCP    192.168.15.50:51813    199.232.47.52:https    ESTABLISHED
+  TCP    192.168.15.50:52156    210-61-249-24:https    ESTABLISHED
+  TCP    192.168.15.50:52157    a-0003:https           ESTABLISHED
+  TCP    192.168.15.50:52158    a-0003:https           TIME_WAIT
+  TCP    192.168.15.50:52159    13.107.42.16:https     TIME_WAIT
+  TCP    192.168.15.50:52161    a-0003:https           TIME_WAIT
+  TCP    192.168.15.50:52162    a184-85-110-179:https  TIME_WAIT
+  TCP    192.168.15.50:52163    210-61-249-24:https    TIME_WAIT
+  TCP    192.168.15.50:52164    203.69.81.40:https     TIME_WAIT
+  TCP    192.168.15.50:52165    a-0003:https           TIME_WAIT
+  TCP    192.168.15.50:52166    a-0003:https           TIME_WAIT
+  TCP    192.168.15.50:52167    a184-85-110-179:https  TIME_WAIT
+  TCP    192.168.15.50:52169    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52170    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52171    a184-85-110-179:https  TIME_WAIT
+  TCP    192.168.15.50:52172    a184-85-110-179:https  TIME_WAIT
+  TCP    192.168.15.50:52173    a184-85-110-179:https  TIME_WAIT
+  TCP    192.168.15.50:52174    a184-85-110-179:https  TIME_WAIT
+  TCP    192.168.15.50:52175    a184-85-110-179:https  TIME_WAIT
+  TCP    192.168.15.50:52176    a184-85-110-179:https  TIME_WAIT
+  TCP    192.168.15.50:52177    a184-85-110-179:https  TIME_WAIT
+  TCP    192.168.15.50:52178    DCKEL001:epmap         TIME_WAIT
+  TCP    192.168.15.50:52180    DCKEL001:49668         TIME_WAIT
+  TCP    192.168.15.50:52187    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52188    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52189    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52190    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52200    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52201    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52203    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52204    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52205    server-3-169-121-5:https  ESTABLISHED
+  TCP    192.168.15.50:52206    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52207    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52211    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52212    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52213    DCKEL003:domain        TIME_WAIT
+  TCP    192.168.15.50:52214    DCKEL003:domain        TIME_WAIT
+  TCP    192.168.15.50:52217    lb-140-82-114-22-iad:https  ESTABLISHED
+  TCP    192.168.15.50:52237    a184-85-110-179:https  TIME_WAIT
+  TCP    192.168.15.50:52238    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52239    DCKEL001:domain        TIME_WAIT
+  TCP    192.168.15.50:52241    112:https              ESTABLISHED
+  TCP    192.168.15.50:52271    exam-back:microsoft-ds  ESTABLISHED
+  TCP    192.168.15.50:56559    20.90.156.32:https     ESTABLISHED
+  TCP    192.168.15.50:56638    DCKEL001:microsoft-ds  ESTABLISHED
+  TCP    192.168.15.50:56875    20.187.186.89:https    ESTABLISHED
+  TCP    192.168.15.50:57245    152.195.38.76:http     CLOSE_WAIT
+  TCP    192.168.15.50:58813    10.15.8.34:https       ESTABLISHED
+  TCP    192.168.15.50:58814    10.15.8.34:https       ESTABLISHED
+  TCP    192.168.15.50:59248    th-in-f188:5228        ESTABLISHED
+  TCP    [::]:80                KEL015050:0            LISTENING
+  TCP    [::]:135               KEL015050:0            LISTENING
+  TCP    [::]:445               KEL015050:0            LISTENING
+  TCP    [::]:1433              KEL015050:0            LISTENING
+  TCP    [::]:2179              KEL015050:0            LISTENING
+  TCP    [::]:5938              KEL015050:0            LISTENING
+  TCP    [::]:8150              KEL015050:0            LISTENING
+  TCP    [::]:49664             KEL015050:0            LISTENING
+  TCP    [::]:49665             KEL015050:0            LISTENING
+  TCP    [::]:49666             KEL015050:0            LISTENING
+  TCP    [::]:49669             KEL015050:0            LISTENING
+  TCP    [::]:49670             KEL015050:0            LISTENING
+  TCP    [::]:49671             KEL015050:0            LISTENING
+  TCP    [::]:49680             KEL015050:0            LISTENING
+  TCP    [::]:58815             KEL015050:0            LISTENING
+  TCP    [::1]:1433             KEL015050:51827        ESTABLISHED
+  TCP    [::1]:49672            KEL015050:0            LISTENING
+  TCP    [::1]:50232            KEL015050:0            LISTENING
+  TCP    [::1]:51827            KEL015050:ms-sql-s     ESTABLISHED
+  UDP    0.0.0.0:53             *:*                    
+  UDP    0.0.0.0:53             *:*                    
+  UDP    0.0.0.0:123            *:*                    
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:49665          *:*                    
+  UDP    0.0.0.0:49667          *:*                    
+  UDP    0.0.0.0:52086          *:*                    
+  UDP    0.0.0.0:52087          *:*                    
+  UDP    0.0.0.0:55727          *:*                    
+  UDP    0.0.0.0:61925          142.250.66.67:443      
+  UDP    0.0.0.0:62009          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:5353         *:*                    
+  UDP    127.0.0.1:49664        127.0.0.1:49664        
+  UDP    127.0.0.1:54972        127.0.0.1:54972        
+  UDP    127.0.0.1:56127        127.0.0.1:56127        
+  UDP    127.0.0.1:56179        127.0.0.1:56179        
+  UDP    127.0.0.1:58667        127.0.0.1:58667        
+  UDP    127.0.0.1:58712        127.0.0.1:58712        
+  UDP    127.0.0.1:59168        127.0.0.1:59168        
+  UDP    127.0.0.1:60261        127.0.0.1:60261        
+  UDP    127.0.0.1:64745        *:*                    
+  UDP    127.0.0.1:64946        127.0.0.1:64946        
+  UDP    172.23.96.1:137        *:*                    
+  UDP    172.23.96.1:138        *:*                    
+  UDP    172.23.96.1:1900       *:*                    
+  UDP    172.23.96.1:64747      *:*                    
+  UDP    172.29.128.1:67        *:*                    
+  UDP    172.29.128.1:68        *:*                    
+  UDP    172.29.128.1:137       *:*                    
+  UDP    172.29.128.1:138       *:*                    
+  UDP    172.29.128.1:1900      *:*                    
+  UDP    172.29.128.1:64746     *:*                    
+  UDP    192.168.15.50:137      *:*                    
+  UDP    192.168.15.50:138      *:*                    
+  UDP    192.168.15.50:1900     *:*                    
+  UDP    192.168.15.50:64744    *:*                    
+  UDP    [::]:123               *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:4500              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:49666             *:*                    
+  UDP    [::]:52088             *:*                    
+  UDP    [::]:55727             *:*                    
+  UDP    [::]:62010             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:64741            *:*                    
+  UDP    [fe80::7b2f:a5b7:d897:7e1c%32]:1900  *:*                    
+  UDP    [fe80::7b2f:a5b7:d897:7e1c%32]:64743  *:*                    
+  UDP    [fe80::cb8b:e8a:adc7:3331%5]:1900  *:*                    
+  UDP    [fe80::cb8b:e8a:adc7:3331%5]:5353  *:*                    
+  UDP    [fe80::cb8b:e8a:adc7:3331%5]:64740  *:*                    
+  UDP    [fe80::dfbe:53d0:ea9:702a%17]:1900  *:*                    
+  UDP    [fe80::dfbe:53d0:ea9:702a%17]:64742  *:*                    
